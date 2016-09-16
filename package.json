@@ -1,0 +1,25 @@
+{
+  "name": "react-router-flow-types",
+  "version": "1.0.0",
+  "description": "Flow types for react router library",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository" :
+  {
+    "type" : "git",
+    "url" : "https://github.com/crisys11/react-router-flow-types.git"
+  },
+  "keywords": [
+    "react",
+    "router",
+    "react-router",
+    "react",
+    "router",
+    "flow",
+    "types"
+  ],
+  "author": "cristian cedeño: cristiancedegallego@gmail.com",
+  "license": "ISC"
+}
